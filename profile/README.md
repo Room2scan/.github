@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/logo.svg" width="550"/>
+  <img src="../images/logo.svg" width="600"/>
 </p>
 
 <p align="center">
@@ -38,5 +38,5 @@ Instead of measuring manually or guessing, users can simply scan their room with
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
