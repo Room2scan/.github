@@ -2,15 +2,12 @@
   <img src="../images/logo.svg" width="180"/>
 </p>
 
-<h1 align="center">Scan2Room</h1>
-
 <p align="center">
   Scan your room, place your future — see if it truly fits.
 </p>
 
----
 
-## 🧩 About
+## About
 
 **Scan2Room** is an AI-powered 3D room reconstruction and furniture placement simulation service.
 
@@ -22,17 +19,17 @@ Instead of measuring manually or guessing, users can simply scan their room with
 
 ---
 
-## 🚀 What We Do
+## What We Do
 
-### 1️⃣ 3D Room Reconstruction
+### 1. 3D Room Reconstruction
 - Capture your room with a smartphone (video or multi-view images)
 - AI reconstructs the space into a **3D Room Mesh**
 
-### 2️⃣ Furniture Objectization
+### 2. Furniture Objectization
 - Convert furniture images into **3D objects**
 - Apply real-world dimensions for accurate scaling
 
-### 3️⃣ Placement Simulation
+### 3. Placement Simulation
 - Drag, move, and rotate furniture in a 3D environment
 - Real-time validation:
   - Wall collision
